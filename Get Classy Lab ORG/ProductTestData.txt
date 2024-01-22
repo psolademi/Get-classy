@@ -1,0 +1,3 @@
+000001, Bread, Buttered Bread, 90.0
+000002, Biscuit, Crackers, 10.0
+000003, Old Spice, Deodorant, 20.0
